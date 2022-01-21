@@ -8,4 +8,5 @@ I split the data into training and test sets and used the Training set to train 
 ```bash
 $ pip install -r requirement.txt
 ```
-![model's output](./output.png)
+![model's output](./training_set.png)
+![model's output](./test_set.png)
