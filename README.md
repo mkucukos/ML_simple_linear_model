@@ -8,3 +8,4 @@ I split the data into training and test sets and used the Training set to train 
 ```bash
 $ pip install -r requirement.txt
 ```
+![model's output](./output.png)
